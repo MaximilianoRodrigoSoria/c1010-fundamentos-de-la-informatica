@@ -204,7 +204,7 @@ Entre todos, den las razones y justificaciones para defender esto:
 >
 > Python está diseñado para ser ejecutado en diferentes plataformas sin necesidad de realizar cambios significativos en el código fuente.
 > Puede ejecutarse en sistemas operativos como Windows, Linux y macOS, lo que facilita la portabilidad de las aplicaciones.
-
+>
 > b. Se puede ejecutar el mismo programa .py tanto en Windows como en Linux:
 > 
 >Python utiliza un enfoque de interpretación que permite la ejecución del mismo código fuente en diferentes sistemas operativos sin necesidad de recompilación.
