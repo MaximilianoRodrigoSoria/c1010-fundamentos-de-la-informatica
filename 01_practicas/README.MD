@@ -7,26 +7,31 @@
 
 ## PARTE I: Aspectos Conceptuales
 
-### Ejercicio 1: 
+#### Ejercicio 1: 
 
-¿Qué diferencias hay entre un lenguaje de máquina y uno de alto nivel?
-
-### Ejercicio 2: 
-¿Qué ventajas tiene programar en un lenguaje de alto nivel? ¿Y desventajas?
+> ¿Qué diferencias hay entre un lenguaje de máquina y uno de alto nivel?
 
 
-### Ejercicio 3: 
-Necesito ejecutar un programa que me permite hacer gráficos estadísticos.
+#### Ejercicio 2: 
+> ¿Qué ventajas tiene programar en un lenguaje de alto nivel? ¿Y desventajas?
 
-(a) Si el programa está escrito en lenguaje C++ (Lenguaje compilado), ¿necesito el
+
+#### Ejercicio 3: 
+>Necesito ejecutar un programa que me permite hacer gráficos estadísticos.
+
+- (a) Si el programa está escrito en lenguaje C++ (Lenguaje compilado), ¿necesito el
 compilador de C++?
-(b) Si el programa está escrito en lenguaje Python (lenguaje interpretado), ¿necesito el
+- (b) Si el programa está escrito en lenguaje Python (lenguaje interpretado), ¿necesito el
 intérprete de Python?
 
-### Ejercicio 4: Según tu opinión, ¿qué ventajas tiene trabajar con software libre?
+#### Ejercicio 4: 
+> Según tu opinión, ¿qué ventajas tiene trabajar con software libre?
 
 
-### Ejercicio 5:¿Qué es un IDE? 
+#### Ejercicio 5:
+> ¿Qué es un IDE? 
+
+
 
 
 ### 1) Respuesta
@@ -52,7 +57,7 @@ Las ventajas que tenemos al programar en lenguaje de programación de alto nivel
 
 - Puede ser menos eficiente en términos de rendimiento.
 - Dependencia del compilador o intérprete.
-. Mayor consumo de recursos.
+- Mayor consumo de recursos.
 
 ### 3) Respuesta
 
