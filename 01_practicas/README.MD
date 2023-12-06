@@ -18,10 +18,9 @@
 
 #### Ejercicio 3: 
 >Necesito ejecutar un programa que me permite hacer gráficos estadísticos.
-
-- (a) Si el programa está escrito en lenguaje C++ (Lenguaje compilado), ¿necesito el
+> - (a) Si el programa está escrito en lenguaje C++ (Lenguaje compilado), ¿necesito el
 compilador de C++?
-- (b) Si el programa está escrito en lenguaje Python (lenguaje interpretado), ¿necesito el
+> - (b) Si el programa está escrito en lenguaje Python (lenguaje interpretado), ¿necesito el
 intérprete de Python?
 
 #### Ejercicio 4: 
