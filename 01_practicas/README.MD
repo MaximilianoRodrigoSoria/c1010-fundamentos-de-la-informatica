@@ -154,7 +154,7 @@ b) Compare con 1 y 2 del ejercicio anterior.
 > Si pude hacerlo, son iguales las ejecuciones
 
 ### Ejercicio 12: 
-Ejecute las instrucciones guardadas en el archivo anterior ( programa.py) desde la
+Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](programa.py) ) desde la
     consola. (Para esto, ubicado en la carpeta creada anteriormente y donde guardó el archivo -por ejemplo
     practica Fundamentos- ejecute el comando python programa.py). Explique por qué debe anteponer el
     comando python.
