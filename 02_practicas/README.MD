@@ -95,19 +95,19 @@ Pedir ancho y largo de un terreno y mostrar cuántos paneles de pasto hay que co
 
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio10.py](10_ejercicio.py)
 
 #### Ejercicio 11
 Pedir datos de 4 productos comprados, con su cantidad y precio unitario y mostrar cuánto se gasta por cada producto y el total.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio11.py](11_ejercicio.py)
 
 #### Ejercicio 12
 Diseña un programa que, a partir del valor del lado de un cuadrado (3 metros), muestre el valor de su perímetro y el de su área.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio12.py](12_ejercicio.py)
 
 ### Cadenas de texto
 
@@ -115,43 +115,43 @@ Diseña un programa que, a partir del valor del lado de un cuadrado (3 metros), 
 Pedir que se ingrese un nombre e imprimir un saludo.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio13.py](13_ejercicio.py)
 
 #### Ejercicio 14
 Pedir tres palabras y mostrar un texto con las iniciales de las tres.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio14.py](14_ejercicio.py)
 
 #### Ejercicio 15
 Pedir un verbo en infinitivo y mostrar su terminación (ar, er o ir).
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio15.py](15_ejercicio.py)
 
 #### Ejercicio 16
 Pedir nombre, apellido, nro. de alumno y comisión que desea suscribirse. Mostrar el siguiente mensaje.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio16.py](16_ejercicio.py)
 
 #### Ejercicio 17
 Pedir cuatro datos, quién, qué hizo, cuándo y cómo. Mostrar la siguiente noticia.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio17.py](17_ejercicio.py)
 
 #### Ejercicio 18
 Pedir nombre, apellido de una persona y el día, mes, año en que nació. Armarle una clave con esos datos y mostrarla.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio18.py](18_ejercicio.py)
 
 #### Ejercicio 19
 Mostrar 5 veces la cadena “Hola”.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio19.py](19_ejercicio.py)
 
 ### Listas y tuplas
 
@@ -161,7 +161,7 @@ Ejecutar los siguientes códigos. ¿Cuál es el resultado de las siguientes ejec
 - b) `tupla=(1,True,['a','b','c'], "hola")`
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio20.py](20_ejercicio.py)
 
 #### Ejercicio 21
 Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar las siguientes sentencias y describir los resultados.
@@ -170,7 +170,7 @@ Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar l
 - c) `lista.append (False) print (lista)`
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio21.py](21_ejercicio.py)
 
 #### Ejercicio 22
 `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar y describir los resultados.
@@ -178,7 +178,7 @@ Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar l
 - `print (lista)`
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio22.py](22_ejercicio.py)
 
 #### Ejercicio 23
 Dada la siguiente información, elija una estructura de datos que permita guardarla adecuadamente.
@@ -189,7 +189,7 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 - Comienzo de la construcción de la gran Muralla China 214 a.C
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio23.py](23_ejercicio.py)
 
 
 ## PARTE III Datos, Variables y Tipos de Datos
