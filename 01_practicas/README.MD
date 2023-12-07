@@ -5,6 +5,9 @@
 # Práctica 1
 
 
+[📂 PDF PRACTICAS 1](docs/Practica%201.pdf)
+
+
 ## PARTE I: Aspectos Conceptuales
 
 #### Ejercicio 1: 
@@ -154,7 +157,7 @@ b) Compare con 1 y 2 del ejercicio anterior.
 > Si pude hacerlo, son iguales las ejecuciones
 
 ### Ejercicio 12: 
-Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](programa.py) ) desde la
+Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](practicas/programa.py) ) desde la
     consola. (Para esto, ubicado en la carpeta creada anteriormente y donde guardó el archivo -por ejemplo
     practica Fundamentos- ejecute el comando python programa.py). Explique por qué debe anteponer el
     comando python.
@@ -179,7 +182,7 @@ guardará los programas Python, por ejemplo: practica_Fundamentos)
 #### Respuesta
 > a. Si pude hacerlo
 > 
-> b. - [primer programa](primer_programa.py) 
+> b. - [primer programa](practicas/primer_programa.py) 
 >
 > c. No es igual
 > 

@@ -1,3 +1,13 @@
+# Fundamentos de Informática
+
+---
+
+# Práctica 2
+
+
+[📂 PDF PRACTICAS 2](docs/Practica%202.pdf)
+
+
 ## PARTE I: Aspectos Conceptuales
 
 ### Ejercicio 1
@@ -51,63 +61,63 @@ mi_tupla = (1, 2, 3)
 Pedir que se ingrese un número e imprimir el triple.
 
 ### Respuesta
-> [ejercicio3.py](03_ejercicio.py)
+> [ejercicio3.py](practicas/03_ejercicio.py)
 
 
 #### Ejercicio 4
 Pedir que se ingrese un número e imprimir la mitad.
 
 ### Respuesta
-> [ejercicio4.py](04_ejercicio.py)
+> [ejercicio4.py](practicas/04_ejercicio.py)
 
 #### Ejercicio 5
 Pedir que se ingrese 3 notas e imprimir el promedio.
 
 ### Respuesta
-> [ejercicio5.py](05_ejercicio.py)
+> [ejercicio5.py](practicas/05_ejercicio.py)
 
 #### Ejercicio 6
 Pedir base y altura de un triángulo y mostrar el área del mismo.
 
 ### Respuesta
-> [ejercicio6.py](06_ejercicio.py)
+> [ejercicio6.py](practicas/06_ejercicio.py)
 
 #### Ejercicio 7
 Pedir el diámetro de un círculo y calcular su área y perímetro.
 
 ### Respuesta
-> [ejercicio7.py](07_ejercicio.py)
+> [ejercicio7.py](practicas/07_ejercicio.py)
 
 #### Ejercicio 8
 Pedir 2 números y mostrar la división entre ellos y el resto.
 
 ### Respuesta
-> [ejercicio8.py](08_ejercicio.py)
+> [ejercicio8.py](practicas/08_ejercicio.py)
 
 #### Ejercicio 9
 Pedir alto, ancho y largo de una pileta. Calcular el volumen y la cantidad de litros que tiene.
 
 ### Respuesta
-> [ejercicio9.py](09_ejercicio.py)
+> [ejercicio9.py](practicas/09_ejercicio.py)
 
 #### Ejercicio 10
 Pedir ancho y largo de un terreno y mostrar cuántos paneles de pasto hay que comprar. (son de 60x60 cm)
 
 
 ### Respuesta
-> [ejercicio10.py](10_ejercicio.py)
+> [ejercicio10.py](practicas/10_ejercicio.py)
 
 #### Ejercicio 11
 Pedir datos de 4 productos comprados, con su cantidad y precio unitario y mostrar cuánto se gasta por cada producto y el total.
 
 ### Respuesta
-> [ejercicio11.py](11_ejercicio.py)
+> [ejercicio11.py](practicas/11_ejercicio.py)
 
 #### Ejercicio 12
 Diseña un programa que, a partir del valor del lado de un cuadrado (3 metros), muestre el valor de su perímetro y el de su área.
 
 ### Respuesta
-> [ejercicio12.py](12_ejercicio.py)
+> [ejercicio12.py](practicas/12_ejercicio.py)
 
 ### Cadenas de texto
 
@@ -115,19 +125,19 @@ Diseña un programa que, a partir del valor del lado de un cuadrado (3 metros), 
 Pedir que se ingrese un nombre e imprimir un saludo.
 
 ### Respuesta
-> [ejercicio13.py](13_ejercicio.py)
+> [ejercicio13.py](practicas/13_ejercicio.py)
 
 #### Ejercicio 14
 Pedir tres palabras y mostrar un texto con las iniciales de las tres.
 
 ### Respuesta
-> [ejercicio14.py](14_ejercicio.py)
+> [ejercicio14.py](practicas/14_ejercicio.py)
 
 #### Ejercicio 15
 Pedir un verbo en infinitivo y mostrar su terminación (ar, er o ir).
 
 ### Respuesta
-> [ejercicio15.py](15_ejercicio.py)
+> [ejercicio15.py](practicas/15_ejercicio.py)
 
 #### Ejercicio 16
 Pedir nombre, apellido, nro. de alumno y comisión que desea suscribirse. Mostrar el siguiente mensaje.
@@ -135,26 +145,26 @@ Pedir nombre, apellido, nro. de alumno y comisión que desea suscribirse. Mostra
 alumno {apellido}, {nombre>} está siendo procesada”
 
 ### Respuesta
-> [ejercicio16.py](16_ejercicio.py)
+> [ejercicio16.py](practicas/16_ejercicio.py)
 
 #### Ejercicio 17
 Pedir cuatro datos, quién, qué hizo, cuándo y cómo. Mostrar la siguiente noticia.
 > “Última noticia!, la persona xx, en el dia xx, hizo xx, de la siguiente manera xx”
 
 ### Respuesta
-> [ejercicio17.py](17_ejercicio.py)
+> [ejercicio17.py](practicas/17_ejercicio.py)
 
 #### Ejercicio 18
 Pedir nombre, apellido de una persona y el día, mes, año en que nació. Armarle una clave con esos datos y mostrarla.
 
 ### Respuesta
-> [ejercicio18.py](18_ejercicio.py)
+> [ejercicio18.py](practicas/18_ejercicio.py)
 
 #### Ejercicio 19
 Mostrar 5 veces la cadena “Hola”.
 
 ### Respuesta
-> [ejercicio19.py](19_ejercicio.py)
+> [ejercicio19.py](practicas/19_ejercicio.py)
 
 ### Listas y tuplas
 
@@ -166,7 +176,7 @@ Ejecutar los siguientes códigos. ¿Cuál es el resultado de las siguientes ejec
 
 
 ### Respuesta
-> [ejercicio20.py](20_ejercicio.py)
+> [ejercicio20.py](practicas/20_ejercicio.py)
 > 
 > En el caso a) da error porque se intenta modificar un valor existente de la tupla.
 > 
@@ -185,7 +195,7 @@ Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar l
 > c) Imprime [1, True, ['a', 'b', 'c'], 'hola', False]
 
 ### Respuesta
-> [ejercicio21.py](21_ejercicio.py)
+> [ejercicio21.py](practicas/21_ejercicio.py)
 
 #### Ejercicio 22
 `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar y describir los resultados.
@@ -193,7 +203,7 @@ Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar l
 - `print (lista)`
 
 ### Respuesta
-> [ejercicio22.py](22_ejercicio.py)
+> [ejercicio22.py](practicas/22_ejercicio.py)
 > 
 > ### Respuesta
 > 
@@ -209,7 +219,7 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 - Comienzo de la construcción de la gran Muralla China 214 a.C
 
 ### Respuesta
-> [ejercicio23.py](23_ejercicio.py)
+> [ejercicio23.py](practicas/23_ejercicio.py)
 >
 > Se utilizaria una tupla ya que los datos ingresados no variarian
 
@@ -224,7 +234,7 @@ Escriba un programa que reciba un nombre ingresado por el usuario e imprima en l
 ¿Qué sentencias utilizó?
 
 ### Respuesta
-> [ejercicio24.py](24_ejercicio.py)
+> [ejercicio24.py](practicas/24_ejercicio.py)
 >
 > Use la variable nombre y concatene con format f {}, las sentencias están en el archivo ejercicio24.py
 
@@ -238,7 +248,7 @@ Escriba un programa que reciba un nombre y una edad ingresados por el usuario e 
 
 
 ### Respuesta
-> [ejercicio25.py](25_ejercicio.py)
+> [ejercicio25.py](practicas/25_ejercicio.py)
 >
 > Use las variables nombre y edad, las sentencias están en el archivo ejercicio25.py
 
@@ -288,7 +298,7 @@ print(x)
 
 
 ### Respuesta
-> [ejercicio26.py](26_ejercicio.py)
+> [ejercicio26.py](practicas/26_ejercicio.py)
 
 
 ### Ejercicio 27
@@ -304,7 +314,7 @@ Ejecute el siguiente código y diga qué hace y qué elementos de programación 
 
 
 ### Respuesta
-> [ejercicio27.py](27_ejercicio.py)
+> [ejercicio27.py](practicas/27_ejercicio.py)
 
 > a) Imprime Hola
 > 
@@ -338,7 +348,7 @@ En la tabla que aparece a continuación coloque los resultados obtenidos y justi
 
 
 ### Respuesta
-> [ejercicio28.py](28_ejercicio.py)
+> [ejercicio28.py](practicas/28_ejercicio.py)
 
 
 ## PARTE IV: Aplicando funciones y métodos a los tipos de datos
@@ -348,7 +358,7 @@ Si se tienen las variables `n1=124.25` y `n2= “33.40”`, realizar las convers
 
 
 ### Respuesta
-> [ejercicio29.py](29_ejercicio.py)
+> [ejercicio29.py](practicas/29_ejercicio.py)
 
 
 
@@ -358,7 +368,7 @@ Pedir 5 palabras y mostrar la cantidad de letras que tienen en total.
 
 
 ### Respuesta
-> [ejercicio30.py](3_ejercicio.py)
+> [ejercicio30.py](practicas/3_ejercicio.py)
 
 
 ### Ejercicio 31
@@ -366,7 +376,7 @@ Pedir el CUIT que tiene la siguiente forma xx/dni/x. Extraer y mostrar el DNI.
 
 
 ### Respuesta
-> [ejercicio31.py](31_ejercicio.py)
+> [ejercicio31.py](practicas/31_ejercicio.py)
 
 
 ### Ejercicio 32
@@ -375,7 +385,7 @@ Mostrar el código ASCII de los caracteres “A”, “a” y “0”.
 
 
 ### Respuesta
-> [ejercicio32.py](32_ejercicio.py)
+> [ejercicio32.py](practicas/32_ejercicio.py)
 
 
 ### Ejercicio 33
@@ -383,4 +393,4 @@ Pedir la cuenta de correo al usuario y mostrar por separado su usuario y su domi
 
 
 ### Respuesta
-> [ejercicio33.py](33_ejercicio.py)
+> [ejercicio33.py](practicas/33_ejercicio.py)
