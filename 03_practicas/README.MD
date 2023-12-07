@@ -256,3 +256,34 @@ dado su precio de venta sin IVA.
 
 >### Respuesta
 > [ejercicio16.py](practicas/16_ejercicio.py)
+
+
+## Ejercicios a entregar
+
+Los ejercicios realizados anteriormente se solicita la entrega de los siguientes:
+
+### Ejercicio 4: 
+Definir una función denominada imprimo_fecha que reciba tres cadenas de caracteres que
+representan un día, un mes y un año e imprima la fecha de la siguiente manera: “ 21 de septiembre de
+2012”.
+
+>### Respuesta
+> [ejercicio4.py](practicas/04_ejercicio.py)
+
+
+### Ejercicio 5: 
+Definir una función denominada cuantos_dias que reciba el número de mes como
+parámetro y retorne la cantidad de días que posee. Ejemplo: cuantos_dias(1), debería retornar 31.
+Ayuda: Pensar en tener una lista de la siguiente manera: [[“enero”,31], [“febrero”, 28], ...]
+
+>### Respuesta
+> [ejercicio5.py](practicas/05_ejercicio.py)
+
+### Ejercicio 15: 
+Definir una función llamada calculo_dosis que reciba tres números. Uno para la cantidad
+de días que debe suministrarse el remedio, el segundo dato para la cantidad de veces por día que debe
+tomarlo, y el último dato para la cantidad de comprimidos que trae el envase. La función debe devolver
+verdadero si el envase alcanza para ese tratamiento y falso si no alcanza. 
+
+>### Respuesta
+> [ejercicio15.py](practicas/15_ejercicio.py)
