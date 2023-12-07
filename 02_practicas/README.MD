@@ -194,6 +194,11 @@ Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar l
 
 ### Respuesta
 > [ejercicio22.py](22_ejercicio.py)
+> 
+> ### Respuesta
+> 
+> Se imprime [1, True, 'hola']
+
 
 #### Ejercicio 23
 Dada la siguiente información, elija una estructura de datos que permita guardarla adecuadamente.
@@ -213,29 +218,73 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 ### Ejercicio 24
 Escriba un programa que reciba un nombre ingresado por el usuario e imprima en la pantalla un saludo.
 
+¿Hizo uso de variables? ¿Cuáles?
+¿Hizo uso de valores? ¿Cuáles?
+¿Hizo uso de operadores? ¿Cuáles?
+¿Qué sentencias utilizó?
 
 ### Respuesta
 > [ejercicio24.py](24_ejercicio.py)
-
+>
+> Use la variable nombre y concatene con format f {}, las sentencias están en el archivo ejercicio24.py
 
 ### Ejercicio 25
-Escriba un programa que reciba un nombre y una edad ingresado por el usuario e imprima en la pantalla un texto con la información ingresada por el usuario.
+Escriba un programa que reciba un nombre y una edad ingresados por el usuario e imprima en la pantalla un texto con la información ingresada por el usuario.
+
+¿Hizo uso de variables? ¿Cuáles?
+¿Hizo uso de valores? ¿Cuáles?
+¿Hizo uso de operadores? ¿Cuáles?
+¿Qué sentencias utilizó?
 
 
 ### Respuesta
 > [ejercicio25.py](25_ejercicio.py)
-
+>
+> Use las variables nombre y edad, las sentencias están en el archivo ejercicio25.py
 
 ### Ejercicio 26
 Ejecute el siguiente código e indique, en cada caso, con qué valor finaliza la variable `x`. Justifique su respuesta.
-- a) `x= 10 X= x**2 print (x)`
-- b) `x=30 # x= x % 4 print (x)`
-- c) `a= “4” b= “3” x= a + b
 
-print (x)`
-- d) `a= “4” b= 3 x= a * b print (x)`
-- e) `a= 4 b= 3 x= “a” * b print (x)`
+a)
+```python 
+x= 10
+X= x**2
+print (x)
+# Resultado 100
+```
 
+b)
+```python 
+x=30
+x= x % 4
+print(x)
+# Resultado 2
+```
+
+c)
+```python 
+a= "4"
+b= "3"
+x= a + b
+print (x)
+# Resultado 43
+```
+d)
+```python 
+a= "4"
+b= 3
+x= a * b
+print (x)
+# Resultado 444
+```
+e)
+```python 
+a= 4
+b= 3
+x= "a" * b
+print(x)
+# Resultado aaa
+```
 
 
 ### Respuesta
@@ -256,6 +305,22 @@ Ejecute el siguiente código y diga qué hace y qué elementos de programación 
 
 ### Respuesta
 > [ejercicio27.py](27_ejercicio.py)
+
+> a) Imprime Hola
+> 
+> b) Imprime 2
+> 
+> c) Imprime el nombre ingresado
+> 
+> d) Imprime la edad ingresada
+> 
+> e) Imprime 6
+> 
+> f) Imprime el resto de la division 0
+> 
+> g) Imprime 23, concatena las variables
+> 
+> h) imprime 6, suma los numeros
 
 
 ### Ejercicio 28
