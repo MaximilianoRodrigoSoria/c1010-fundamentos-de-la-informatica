@@ -28,10 +28,6 @@ Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 - [🔗 Parciales](/07_parciales/README.MD)
 
 
-### ⭐ Trabajos Paracticos
-
-- [🔗 ...](/07_tps/README.MD)
-- 
 ---
 
 ### ⭐ Contacto
