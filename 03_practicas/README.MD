@@ -3,7 +3,7 @@
 <img width="100%" height="100%" src="../docs/img/fundamentos.png" alt="Fundamentos"></a></p>
 
 
-# Práctica 3 - Tipo de datos
+# Práctica 3 - Funciones
 
 
 [📂 PDF PRACTICAS 3](docs/Practica%203%20de%20Funciones.pdf)
