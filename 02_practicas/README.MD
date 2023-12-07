@@ -197,8 +197,18 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 ### Ejercicio 24
 Escriba un programa que reciba un nombre ingresado por el usuario e imprima en la pantalla un saludo.
 
+
+### Respuesta
+> [ejercicio24.py](24_ejercicio.py)
+
+
 ### Ejercicio 25
 Escriba un programa que reciba un nombre y una edad ingresado por el usuario e imprima en la pantalla un texto con la información ingresada por el usuario.
+
+
+### Respuesta
+> [ejercicio25.py](25_ejercicio.py)
+
 
 ### Ejercicio 26
 Ejecute el siguiente código e indique, en cada caso, con qué valor finaliza la variable `x`. Justifique su respuesta.
@@ -210,6 +220,12 @@ print (x)`
 - d) `a= “4” b= 3 x= a * b print (x)`
 - e) `a= 4 b= 3 x= “a” * b print (x)`
 
+
+
+### Respuesta
+> [ejercicio26.py](26_ejercicio.py)
+
+
 ### Ejercicio 27
 Ejecute el siguiente código y diga qué hace y qué elementos de programación se utilizan: variables, valores, operadores y sentencias.
 - a) `print ('hola')`
@@ -220,6 +236,11 @@ Ejecute el siguiente código y diga qué hace y qué elementos de programación 
 - f) `print (4%2)`
 - g) `num1=input('Ingrese un número') num2=input('Ingrese otro número') print (num1+num2)`
 - h) `num1=int(input('Ingrese un número')) num2=int(input('Ingrese otro número')) print (num1+num2)`
+
+
+### Respuesta
+> [ejercicio27.py](27_ejercicio.py)
+
 
 ### Ejercicio 28
 Asígnele a las variables `num1` y `num2` los distintos valores indicados en la tabla. Realice las siguientes cuentas con las operaciones indicadas almacenando el resultado en la variable `resul`.
@@ -233,19 +254,52 @@ En la tabla que aparece a continuación coloque los resultados obtenidos y justi
 | 10.45 | 7 | `+` | 17.45 | La suma de 10.45 y 7 es 17.45 |
 | “republica ” | “argentina” | `+` | “republica argentina” | La concatenación de las cadenas es “republica argentina” |
 
+
+
+### Respuesta
+> [ejercicio28.py](28_ejercicio.py)
+
+
 ## PARTE IV: Aplicando funciones y métodos a los tipos de datos
 
 ### Ejercicio 29
 Si se tienen las variables `n1=124.25` y `n2= “33.40”`, realizar las conversiones necesarias para saber la división entera entre ellos y el resto.
 
+
+### Respuesta
+> [ejercicio29.py](29_ejercicio.py)
+
+
+
 ### Ejercicio 30
 Pedir 5 palabras y mostrar la cantidad de letras que tienen en total.
+
+
+
+### Respuesta
+> [ejercicio30.py](3_ejercicio.py)
+
 
 ### Ejercicio 31
 Pedir el CUIT que tiene la siguiente forma xx/dni/x. Extraer y mostrar el DNI.
 
+
+### Respuesta
+> [ejercicio31.py](31_ejercicio.py)
+
+
 ### Ejercicio 32
 Mostrar el código ASCII de los caracteres “A”, “a” y “0”.
 
+
+
+### Respuesta
+> [ejercicio32.py](32_ejercicio.py)
+
+
 ### Ejercicio 33
 Pedir la cuenta de correo al usuario y mostrar por separado su usuario y su dominio.
+
+
+### Respuesta
+> [ejercicio33.py](33_ejercicio.py)
