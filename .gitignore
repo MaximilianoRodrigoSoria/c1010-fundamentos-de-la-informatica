@@ -1,0 +1,22 @@
+# Archivos y directorios específicos de PyCharm
+.idea/
+*.iml
+
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea
+
+
+# Archivo de configuración local (si utilizas virtualenv)
+venv/
+
+# Archivo de registro de Python
+*.log
+
+# Otros archivos o directorios específicos de tu proyecto
+# ...
+/.idea/misc.xml
