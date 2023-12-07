@@ -50,55 +50,108 @@ mi_tupla = (1, 2, 3)
 #### Ejercicio 3
 Pedir que se ingrese un número e imprimir el triple.
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
+
 #### Ejercicio 4
 Pedir que se ingrese un número e imprimir la mitad.
+
+### Respuesta
+> [ejercicio4.py](04_ejercicio.py)
 
 #### Ejercicio 5
 Pedir que se ingrese 3 notas e imprimir el promedio.
 
+### Respuesta
+> [ejercicio5.py](05_ejercicio.py)
+
 #### Ejercicio 6
 Pedir base y altura de un triángulo y mostrar el área del mismo.
+
+### Respuesta
+> [ejercicio6.py](06_ejercicio.py)
 
 #### Ejercicio 7
 Pedir el diámetro de un círculo y calcular su área y perímetro.
 
+### Respuesta
+> [ejercicio7.py](07_ejercicio.py)
+
 #### Ejercicio 8
 Pedir 2 números y mostrar la división entre ellos y el resto.
+
+### Respuesta
+> [ejercicio8.py](08_ejercicio.py)
 
 #### Ejercicio 9
 Pedir alto, ancho y largo de una pileta. Calcular el volumen y la cantidad de litros que tiene.
 
+### Respuesta
+> [ejercicio9.py](09_ejercicio.py)
+
 #### Ejercicio 10
-Pedir ancho y largo de un terreno y mostrar cuántos paneles de pasto hay que comprar.
+Pedir ancho y largo de un terreno y mostrar cuántos paneles de pasto hay que comprar. (son de 60x60 cm)
+
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 #### Ejercicio 11
 Pedir datos de 4 productos comprados, con su cantidad y precio unitario y mostrar cuánto se gasta por cada producto y el total.
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 12
 Diseña un programa que, a partir del valor del lado de un cuadrado (3 metros), muestre el valor de su perímetro y el de su área.
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 ### Cadenas de texto
 
 #### Ejercicio 13
 Pedir que se ingrese un nombre e imprimir un saludo.
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 14
 Pedir tres palabras y mostrar un texto con las iniciales de las tres.
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 #### Ejercicio 15
 Pedir un verbo en infinitivo y mostrar su terminación (ar, er o ir).
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 16
 Pedir nombre, apellido, nro. de alumno y comisión que desea suscribirse. Mostrar el siguiente mensaje.
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 #### Ejercicio 17
 Pedir cuatro datos, quién, qué hizo, cuándo y cómo. Mostrar la siguiente noticia.
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 18
 Pedir nombre, apellido de una persona y el día, mes, año en que nació. Armarle una clave con esos datos y mostrarla.
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 19
 Mostrar 5 veces la cadena “Hola”.
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 ### Listas y tuplas
 
@@ -107,16 +160,25 @@ Ejecutar los siguientes códigos. ¿Cuál es el resultado de las siguientes ejec
 - a) `tupla=(1,True,['a','b','c'], "hola")`
 - b) `tupla=(1,True,['a','b','c'], "hola")`
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 21
 Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar las siguientes sentencias y describir los resultados.
 - a) `print (lista[2])`
 - b) `print (lista [4])`
 - c) `lista.append (False) print (lista)`
 
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 #### Ejercicio 22
 `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar y describir los resultados.
 - `del lista[2]`
 - `print (lista)`
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
 
 #### Ejercicio 23
 Dada la siguiente información, elija una estructura de datos que permita guardarla adecuadamente.
@@ -125,6 +187,10 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 - Revolución de Mayo 1810 d.C
 - Llegada de los españoles a América 1492 d.C
 - Comienzo de la construcción de la gran Muralla China 214 a.C
+
+### Respuesta
+> [ejercicio3.py](03_ejercicio.py)
+
 
 ## PARTE III Datos, Variables y Tipos de Datos
 
