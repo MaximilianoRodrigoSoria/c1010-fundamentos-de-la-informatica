@@ -191,7 +191,7 @@ Definir una función llamada calculo_nuevo_precio que reciba dos números, uno c
 precio anterior y otro con el número de porcentaje a aumentar y devuelva el precio aumentado.
 
 >### Respuesta
-> [ejercicio8.py](practicas/08_ejercicio.py)
+> [ejercicio9.py](practicas/09_ejercicio.py)
 
 ### Ejercicio 10: 
 Definir una función llamada calculo_transporte que reciba cuatro números: la cantidad
