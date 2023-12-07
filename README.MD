@@ -21,7 +21,7 @@ Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 - [🔗 Practicas 3](/03_practicas/README.MD)
 - [🔗 Practicas 4](/04_practicas/README.MD)
 - [🔗 Practicas 5](/05_practicas/README.MD)
-- [🔗Practicas 6](/06_practicas/README.MD)
+- [🔗 Practicas 6](/06_practicas/README.MD)
 
 ### ⭐ Parciales
 
