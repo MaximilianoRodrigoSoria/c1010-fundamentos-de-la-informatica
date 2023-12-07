@@ -27,6 +27,20 @@ Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 | [🔗 Practicas 6](/06_practicas/README.MD) | ...                                 |
 
 
+### ⭐ Lista de Power points
+
+Aquí podés encontrar los Power Point vistos en clase
+
+
+| Enlace                                    | Descripción                         |
+|-------------------------------------------|-------------------------------------|
+| [🔗 PPT 1](/01_practicas/README.MD)       | Conceptos basicos                   |
+| [🔗 PPT 2](/02_practicas/README.MD)       | Tipo de datos                       |
+| [🔗 PPT 3](/03_practicas/README.MD) | Funciones |
+| [🔗 PPT 4](/04_practicas/README.MD) | ...                                 |
+| [🔗 PPT 5](/05_practicas/README.MD) | ...                                 |
+| [🔗 PPT 6](/06_practicas/README.MD) | ...                                 |
+
 
 ### ⭐ Parciales
 
