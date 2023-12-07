@@ -155,7 +155,7 @@ b) Compare con 1 y 2 del ejercicio anterior.
 
 #### Respuesta
 
-> Si pude hacerlo, son iguales las ejecuciones
+> Si pude hacerlo, son iguales las ejecuciones ya que ambas se ejecutan correctamente, en una se imprime una cadena y en la otra un 6
 
 ### Ejercicio 12: 
 Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](practicas/programa.py) ) desde la
