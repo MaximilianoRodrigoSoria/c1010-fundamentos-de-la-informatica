@@ -8,8 +8,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Chat-on%20Discord-7289da.svg?sanitize=true" alt="Chat"></a>
   <a href="#"><img src="https://img.shields.io/badge/UNAJ-Fundamentos-orange" alt="UNAJ Fundamentos de la programación"></a>
 
-# Prácticas de Fundamentos de Informatica 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
+<img width="100%" height="100%" src="docs/img/fundamentos.png" alt="Fundamentos"></a></p>
 ### ⭐ Lista de Prácticas
 
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
