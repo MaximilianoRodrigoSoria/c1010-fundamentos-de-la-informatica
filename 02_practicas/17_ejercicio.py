@@ -1,1 +1,6 @@
-
+persona = input("Ingresar quien lo hizo: ")
+dia = input("Ingresar que dia lo hizo: ")
+accion = input("Ingresar que accion hizo: ")
+manera = input("Ingresar de que manera lo  hizo: ")
+print()
+print(f"Última noticia!, la persona {persona}, en el dia {dia}, hizo {accion}, de la siguiente manera {manera}")

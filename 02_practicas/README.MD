@@ -131,12 +131,15 @@ Pedir un verbo en infinitivo y mostrar su terminación (ar, er o ir).
 
 #### Ejercicio 16
 Pedir nombre, apellido, nro. de alumno y comisión que desea suscribirse. Mostrar el siguiente mensaje.
+> “La solicitud de inscripción a la comisión {comision} solicitada por el
+alumno {apellido}, {nombre>} está siendo procesada”
 
 ### Respuesta
 > [ejercicio16.py](16_ejercicio.py)
 
 #### Ejercicio 17
 Pedir cuatro datos, quién, qué hizo, cuándo y cómo. Mostrar la siguiente noticia.
+> “Última noticia!, la persona xx, en el dia xx, hizo xx, de la siguiente manera xx”
 
 ### Respuesta
 > [ejercicio17.py](17_ejercicio.py)
@@ -160,14 +163,26 @@ Ejecutar los siguientes códigos. ¿Cuál es el resultado de las siguientes ejec
 - a) `tupla=(1,True,['a','b','c'], "hola")`
 - b) `tupla=(1,True,['a','b','c'], "hola")`
 
+
+
 ### Respuesta
 > [ejercicio20.py](20_ejercicio.py)
+> 
+> En el caso a) da error porque se intenta modificar un valor existente de la tupla.
+> 
+> En el caso b) se ejecuta correctamente ya que se agrega un elemento nuevo
 
 #### Ejercicio 21
 Dada la siguiente estructura: `lista=[1,True,['a','b','c'], "hola"]`. Ejecutar las siguientes sentencias y describir los resultados.
 - a) `print (lista[2])`
 - b) `print (lista [4])`
 - c) `lista.append (False) print (lista)`
+
+> a) Se imprime ['a','b','c']
+> 
+> b) Error, el indice 4 no existe
+> 
+> c) Imprime [1, True, ['a', 'b', 'c'], 'hola', False]
 
 ### Respuesta
 > [ejercicio21.py](21_ejercicio.py)
@@ -190,7 +205,8 @@ Dada la siguiente información, elija una estructura de datos que permita guarda
 
 ### Respuesta
 > [ejercicio23.py](23_ejercicio.py)
-
+>
+> Se utilizaria una tupla ya que los datos ingresados no variarian
 
 ## PARTE III Datos, Variables y Tipos de Datos
 
