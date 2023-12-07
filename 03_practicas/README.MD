@@ -166,3 +166,93 @@ multiplicar de dicho número
 
 >### Respuesta
 > [ejercicio6.py](practicas/06_ejercicio.py)
+
+### Ejercicio 7: 
+Definir una función que calcule el área de un círculo, otra que calcule el área de un
+rectángulo y otra que calcule el área de un rectángulo. Analice qué parámetros deberían recibir dichas
+funciones.
+
+>### Respuesta
+> [ejercicio7.py](practicas/07_ejercicio.py)
+
+## Ejercicios Complementarios
+
+### Ejercicio 8: 
+
+Definir una función llamada calculo_rebaja que reciba dos números, uno con el precio
+anterior y otro para el precio rebajado y devuelva un número que represente el porcentaje rebajado.
+
+>### Respuesta
+> [ejercicio8.py](practicas/08_ejercicio.py)
+
+
+### Ejercicio 9: 
+Definir una función llamada calculo_nuevo_precio que reciba dos números, uno con el
+precio anterior y otro con el número de porcentaje a aumentar y devuelva el precio aumentado.
+
+>### Respuesta
+> [ejercicio8.py](practicas/08_ejercicio.py)
+
+### Ejercicio 10: 
+Definir una función llamada calculo_transporte que reciba cuatro números: la cantidad
+de alumnos de 1era, 2da y 3er. salita de un jardín de infantes y la cantidad de asientos del transporte
+escolar. La función debe retornar cuántos micros necesito contratar para una excursión sabiendo que
+cada salita es acompañada por tres adultos.
+
+>### Respuesta
+> [ejercicio10.py](practicas/10_ejercicio.py)
+
+### Ejercicio 11: 
+Definir una función llamada armo_cartel que reciba una cadena de caracteres (para el
+nombre del producto) y dos números (el precio anterior y el otro para el precio rebajado) e imprima un
+cartel de la siguiente forma:
+
+> *************************************
+>Atención!!! Gran rebaja para el producto nombre (recibido como parámetro)
+>Antes: precio anterior (dato recibido como parámetro)
+>Ahora: precio rebajado (dato recibido como parámetro)
+
+
+>### Respuesta
+> [ejercicio11.py](practicas/11_ejercicio.py)
+
+### Ejercicio 12: 
+Definir una función llamada calculo_litros que reciba tres números, el alto, ancho y
+profundidad (en metros) de una pileta y devuelva la cantidad de litros que tiene.
+
+>### Respuesta
+> [ejercicio12.py](practicas/12_ejercicio.py)
+
+
+### Ejercicio 13: 
+
+Definir una función llamada a_pagar que reciba 4 números: la cantidad de personas, el
+monto gastado en bebida, el monto gastado en comida y el del alquiler del lugar, y retorne cuánto le
+toca pagar a cada uno.
+
+>### Respuesta
+> [ejercicio13.py](practicas/13_ejercicio.py)
+
+### Ejercicio 14: 
+Definir tres funciones llamadas convertir_a_dolar, convertir_a_euro y
+convertir_a_real. Cada función recibe un parámetro que representa un monto en pesos y devuelve su
+conversión respectiva.
+
+>### Respuesta
+> [ejercicio14.py](practicas/14_ejercicio.py)
+
+### Ejercicio 15: 
+Definir una función llamada calculo_dosis que reciba tres números. Uno para la cantidad
+de días que debe suministrarse el remedio, el segundo dato para la cantidad de veces por día que debe
+tomarlo, y el último dato para la cantidad de comprimidos que trae el envase. La función debe devolver
+verdadero si el envase alcanza para ese tratamiento y falso si no alcanza.
+
+>### Respuesta
+> [ejercicio15.py](practicas/15_ejercicio.py)
+
+### Ejercicio 16: 
+Definir una función llamada precio_con_iva que agrega el IVA (21%) de un producto
+dado su precio de venta sin IVA.
+
+>### Respuesta
+> [ejercicio16.py](practicas/16_ejercicio.py)
