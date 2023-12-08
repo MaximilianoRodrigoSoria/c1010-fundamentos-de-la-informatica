@@ -8,7 +8,7 @@
 
 [📂 PDF PRACTICAS 2](docs/Practica%202.pdf)
 
-[📂 PPTs](docs/Power%20Point%202%20-Variables%20y%20Tipos%20de%20datos.pdf)
+
 
 ## PARTE I: Aspectos Conceptuales
 

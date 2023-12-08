@@ -9,7 +9,6 @@
 
 [📂 PDF PRACTICAS 1](docs/Practica%201.pdf)
 
-[📂 PPTs](docs/Power%20Point%201%20-%20Conceptos%20básicos.pdf)
 
 ## PARTE I: Aspectos Conceptuales
 

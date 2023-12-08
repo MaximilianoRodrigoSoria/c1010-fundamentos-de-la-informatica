@@ -8,4 +8,3 @@
 
 [📂 PDF PRACTICAS 5](docs/Practica%205.pdf)
 
-[📂 PPTs](docs/Power%20Point%205%20-%20Funciones.pdf)

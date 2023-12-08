@@ -8,4 +8,3 @@
 
 [📂 PDF PRACTICAS 6](docs/Practica%206%20Repaso-%20Ejercicios%20avanzados%20NO%20ENTREGA%20OBLIGATORIA.pdf)
 
-[📂 PPTs](docs/Power%20Point%206%20-%20Estructuras%20de%20Control%20-%20Condicionales.pdf)

@@ -8,4 +8,3 @@
 
 [📂 PDF PRACTICAS 4](docs/Practica%204.pdf)
 
-[📂 PPTs](docs/Power%20Point%204%20-Listas%20y%20Tuplas.pdf)

@@ -8,9 +8,6 @@
 
 [📂 PDF PRACTICAS 3](docs/Practica%203%20de%20Funciones.pdf)
 
-[📂 PPTs](docs/Power%20Point%203%20-Tipos%20de%20Datos.pdf)
-
-
 
 ### PARTE I: Aspectos Conceptuales
 
