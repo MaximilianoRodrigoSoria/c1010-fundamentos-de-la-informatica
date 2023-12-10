@@ -17,14 +17,14 @@
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 
 
-| Enlace                                          | Descripción                         |
-|-------------------------------------------------|-------------------------------------|
-| [🔗 Practicas 1](/01_practicas/README.MD)                | Conceptos basicos                   |
-| [🔗 Practicas 2](/02_practicas/README.MD)                  | Tipo de datos                       |
-| [🔗 Practicas 3](/03_practicas/README.MD)               | Funciones |
-| [🔗 Practicas 4](/04_practicas/README.MD)              | Sentencias condicionales                                 |
-| [🔗 Practicas 5](/05_practicas/README.MD)| ...                                 |
-| [🔗 Practicas 6](/06_practicas/README.MD) | ...                                 |
+| Enlace                                          | Descripción              |
+|-------------------------------------------------|--------------------------|
+| [🔗 Practicas 1](/01_practicas/README.MD)                | Conceptos basicos        |
+| [🔗 Practicas 2](/02_practicas/README.MD)                  | Tipo de datos            |
+| [🔗 Practicas 3](/03_practicas/README.MD)               | Funciones                |
+| [🔗 Practicas 4](/04_practicas/README.MD)              | Sentencias condicionales |
+| [🔗 Practicas 5](/05_practicas/README.MD)| Listas                   |
+| [🔗 Practicas 6](/06_practicas/README.MD) | Corte de control         |
 
 
 ### ⭐ Lista de Power points
