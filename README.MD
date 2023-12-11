@@ -46,14 +46,14 @@ Aquí podés encontrar los Power Point vistos en clase
 
 | Enlace                                                                     | 
 |----------------------------------------------------------------------------|
-| [🔗 Primer parcial - ejemplo 01](07_parciales/docs/primer_parcial_01.jpeg) | 
-| [🔗 Primer parcial - ejemplo 02](07_parciales/docs/primer_parcial_02.jpeg)              |
-| [🔗 Primer parcial - ejemplo 03](07_parciales/docs/primer_parcial_03.jpeg)              | 
-| [🔗 Primer parcial - ejemplo 04](07_parciales/docs/primer_parcial_04.jpeg)              | 
-| [🔗 Sedundo parcial - ejemplo 01](07_parciales/docs/segundo_parcial_01.png)             |
-| [🔗 Sedundo parcial - ejemplo 02](07_parciales/docs/segundo_parcial_02.png)             | 
-| [🔗 Final - ejemplo 01](07_parciales/docs/final_01.png)                                 | 
-| [🔗 Final - ejemplo 02](07_parciales/docs/final_02.png)                                 | 
+| [🔗 Primer parcial](07_parciales/docs/primer_parcial_01.jpeg) | 
+| [🔗 Primer parcial](07_parciales/docs/primer_parcial_02.jpeg)              |
+| [🔗 Primer parcial](07_parciales/docs/primer_parcial_03.jpeg)              | 
+| [🔗 Primer parcial](07_parciales/docs/primer_parcial_04.jpeg)              | 
+| [🔗 Sedundo parcial](07_parciales/docs/segundo_parcial_01.png)             |
+| [🔗 Sedundo parcial](07_parciales/docs/segundo_parcial_02.png)             | 
+| [🔗 Final](07_parciales/docs/final_01.png)                                 | 
+| [🔗 Final](07_parciales/docs/final_02.png)                                 | 
 
 
 
