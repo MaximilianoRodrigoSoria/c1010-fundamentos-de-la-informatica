@@ -143,9 +143,15 @@ Menú de opciones
 
 3.- Rectángulo
 
+>### Respuesta
+> [ejercicio15.py](practicas/15_practica.py)
+
 ###   Ejercicio 16: 
 Escriba un programa que le solicite al usuario que ingrese un monto de dinero y una opción del siguiente menú. De acuerdo a la opción elegida, imprima cuanto
 equivale el monto en dólares, en euros y en reales. Utilizar las funciones ya definidas en el ejercicio 14 de la práctica 3 (convertir_a_dolar, convertir_a_euro y convertir_a_real).
+
+>### Respuesta
+> [ejercicio16.py](practicas/16_practica.py)
 
 ###  Ejercicio 17:
 
@@ -173,6 +179,9 @@ ejemplo, en el caso de 5 números sería:
 <p align="center">
 <a href="#" target="_blank" rel="noopener noreferrer">
 <img width="50%" height="50%" src="docs/img/formula_1.png" alt="formula 01"></a></p>
+
+>### Respuesta
+> [ejercicio17.py](practicas/17_practica.py)
 
 ## Ejercicios a entregar
 
