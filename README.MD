@@ -23,8 +23,8 @@ Los PDFs utilizados corresponden al año 2020, lo cual implica que están desact
 
 ### Objetivo
 
-El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, colaborar con distintos alumnos para generar resoluciones más eficientes en un espacio colaborativo.
-
+El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
+la materia, siendo este un material de apoyo y punto de partida para revisar la resolución de los ejercicios.
 
 
 | Enlace                                          | Descripción              |
