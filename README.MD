@@ -79,9 +79,12 @@ Aquí podés encontrar los Power Point vistos en clase
 <br/>
 <br/>
 
-### ⭐ Contacto
-
-📧 MaximilianoRodrigoSoria@gmail.com
+### ⭐ Autor
+> ‍💻 **Nombre:** Maximiliano Rodrigo Soria
+> 
+> 📧 **Email:** MaximilianoRodrigoSoria@gmail.com
+>
+> 🏠 **De:** Florencio Varela, Alphino
 
 <!-- Example to tags
 
