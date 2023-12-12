@@ -86,7 +86,7 @@ Aquí podés encontrar los Power Point vistos en clase
 >
 > 🏠 **De:** Florencio Varela, Alphino
 > 
-> 💼: **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
+> 💼 **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
 
 <!-- Example to tags
 
