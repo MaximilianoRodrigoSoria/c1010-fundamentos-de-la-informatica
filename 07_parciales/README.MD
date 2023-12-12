@@ -13,4 +13,5 @@
 Lista de parciales y finales
 
 
+<span style="color:rgb(255,0,0)">Este texto está en rojo</span>
 
