@@ -16,7 +16,10 @@
 
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 
+> .[!Note ].
+>  Algo
 
+> 
 | Enlace                                          | Descripción              |
 |-------------------------------------------------|--------------------------|
 | [🔗 Practicas 1](/01_practicas/README.MD)                | Conceptos basicos        |
