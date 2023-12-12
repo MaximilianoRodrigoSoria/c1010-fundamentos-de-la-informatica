@@ -16,7 +16,7 @@
 
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 
-> .[!Note ].
+> .[!NOTE].
 >  Algo
 
 > 
