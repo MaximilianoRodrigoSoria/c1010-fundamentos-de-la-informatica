@@ -110,7 +110,7 @@ intérprete de Python?
 <br/>
 
 
-### Ejercicio 6: 
+#### Ejercicio 6: 
 >Desde http://www.python.org, descargue la versión de Python acorde al sistema operativo
 >de su equipo.
 
@@ -119,9 +119,9 @@ intérprete de Python?
 <br/>
 
 
-### Ejercicio 7: 
+#### Ejercicio 7: 
 >Desde http://www.geany.org/ descargue el IDE Geany.
-### Ejercicio 8: 
+#### Ejercicio 8: 
 >¿Puede ejecutar Python desde cualquier directorio de su máquina? ¿Cómo verifica esto? Si
 >no puede hacerlo, actualice lo necesario para que sea posible.
 
@@ -133,14 +133,14 @@ intérprete de Python?
 
 ### PARTE III: Primeros pasos con
 
-###Python
+### Python
 
 Desde el intérprete de Python
 
 <br/>
 
 
-### Ejercicio 9: 
+#### Ejercicio 9: 
 Indique qué versión es la que tiene instalada en su máquina
 
 ##### Respuesta 
@@ -149,7 +149,7 @@ Indique qué versión es la que tiene instalada en su máquina
 <br/>
 
 
-### Ejercicio 10: 
+#### Ejercicio 10: 
 Ejecute las siguientes instrucciones:
 
 1. print (“hola Fundamentos”)
@@ -183,7 +183,7 @@ Python version 3
 <br/>
 
 
-### Ejercicio 11: 
+#### Ejercicio 11: 
 Ejecute las siguientes instrucciones:
 
 10. “hola Fundamentos”
@@ -200,7 +200,7 @@ b) Compare con 1 y 2 del ejercicio anterior.
 <br/>
 
 
-### Ejercicio 12: 
+#### Ejercicio 12: 
 Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](practicas/programa.py) ) desde la
     consola. (Para esto, ubicado en la carpeta creada anteriormente y donde guardó el archivo -por ejemplo
     practica Fundamentos- ejecute el comando python programa.py). Explique por qué debe anteponer el
@@ -215,7 +215,7 @@ Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](pract
 
 ## Desde Geany
 
-### Ejercicio 13: 
+#### Ejercicio 13: 
 Genere un nuevo archivo y tipee las siguientes instrucciones:
     print “Hola”
     print “ Vamos a trabajar un rato con Geany”
