@@ -100,3 +100,8 @@ Aquí podés encontrar los Power Point vistos en clase
 > [!CAUTION]
 > Negative potential consequences of an action.
 -->
+
+> [!CAUTION]
+> <span style="color:rgb(255,0,0)">Practica los ejercicios por tu cuenta!!!</span>
+
+

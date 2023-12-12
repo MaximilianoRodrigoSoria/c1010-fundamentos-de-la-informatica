@@ -98,6 +98,7 @@ intérprete de Python?
 ---
 
 
+
 <br/>
 
 
@@ -277,3 +278,4 @@ Esto significa que los usuarios tienen la libertad de usar, modificar y distribu
 >Python proporciona abstracciones de alto nivel que permiten a los desarrolladores expresar conceptos en menos líneas de código, lo que facilita la lectura y mantenimiento del código.
 Abstracciones de alto nivel, como la gestión automática de memoria y la manipulación de listas, diccionarios y otros tipos de datos complejos, simplifican el desarrollo de software.
 Estas razones y justificaciones resaltan las ventajas y características distintivas de Python en términos de portabilidad, tipado dinámico, licencia de software libre y nivel de abstracción. Estos aspectos hacen que Python sea una opción atractiva para diversos proyectos y comunidades de desarrollo.
+
