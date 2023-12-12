@@ -16,8 +16,8 @@
 
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 
-> .[!NOTE].
->  Algo
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 > 
 | Enlace                                          | Descripción              |
