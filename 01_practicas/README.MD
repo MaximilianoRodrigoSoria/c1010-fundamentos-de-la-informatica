@@ -13,6 +13,8 @@
 
 ## PARTE I: Aspectos Conceptuales
 
+<br/>
+
 #### Ejercicio 1: 
 
 ¿Qué diferencias hay entre un lenguaje de máquina y uno de alto nivel?
@@ -26,6 +28,9 @@
 > #### Los lenguajes de Alto Nivel, como Python, .NET, Java, etc.
 > Son lenguajes más cercanos al lenguaje humano y para estos son abstractos y fácil de entender.
 > Para poder trabajar con los mismos se necesita un compilador o intérprete para convertirse en código de máquina ejecutable.
+
+
+<br/>
 
 
 #### Ejercicio 2: 
@@ -47,6 +52,9 @@
 > - Dependencia del compilador o intérprete.
 > - Mayor consumo de recursos.
 
+<br/>
+
+
 #### Ejercicio 3: 
 Necesito ejecutar un programa que me permite hacer gráficos estadísticos.
  - (a) Si el programa está escrito en lenguaje C++ (Lenguaje compilado), ¿necesito el
@@ -64,6 +72,9 @@ intérprete de Python?
 >- (b) Lenguaje Python (Interpretado):
    >  Sí, necesitas el intérprete de Python para ejecutar el código directamente, ya que Python es un lenguaje interpretado.
 
+<br/>
+
+
 #### Ejercicio 4: 
  Según tu opinión, ¿qué ventajas tiene trabajar con software libre?
 
@@ -71,6 +82,9 @@ intérprete de Python?
 >El ***Software libre*** tiene como ventajar la libertad para estudiar, modificar y distribuir el software.
 >Posee una comunidad colaborativa y transparente. Por lo general el costo de su implementación es cero o muy bajo.
 >Y se posee un menor riesgo de dependencia de proveedores.
+
+<br/>
+
 
 #### Ejercicio 5:
 ¿Qué es un IDE? 
@@ -84,15 +98,27 @@ intérprete de Python?
 ---
 
 
+<br/>
+
+
 ### PARTE II: Instalando
 
 >Instalación de las herramientas necesarias para trabajar. Si bien en las máquinas del gabinete están
 >instaladas todas las herramientas necesarias para trabajar. Vamos a indicar cómo instalar las mismas en
 >otros equipos (para que puedan contar con estas herramientas en otros ámbitos).
 
+<br/>
+
+
 ### Ejercicio 6: 
 >Desde http://www.python.org, descargue la versión de Python acorde al sistema operativo
 >de su equipo.
+
+
+
+<br/>
+
+
 ### Ejercicio 7: 
 >Desde http://www.geany.org/ descargue el IDE Geany.
 ### Ejercicio 8: 
@@ -102,17 +128,26 @@ intérprete de Python?
 ---
 
 
+<br/>
+
+
 ### PARTE III: Primeros pasos con
 
 ###Python
 
 Desde el intérprete de Python
 
+<br/>
+
+
 ### Ejercicio 9: 
 Indique qué versión es la que tiene instalada en su máquina
 
 ##### Respuesta 
 > Python version 3
+
+<br/>
+
 
 ### Ejercicio 10: 
 Ejecute las siguientes instrucciones:
@@ -145,6 +180,9 @@ Python version 3
 
 
 
+<br/>
+
+
 ### Ejercicio 11: 
 Ejecute las siguientes instrucciones:
 
@@ -159,6 +197,9 @@ b) Compare con 1 y 2 del ejercicio anterior.
 
 > Si pude hacerlo, son iguales las ejecuciones ya que ambas se ejecutan correctamente, en una se imprime una cadena y en la otra un 6
 
+<br/>
+
+
 ### Ejercicio 12: 
 Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](practicas/programa.py) ) desde la
     consola. (Para esto, ubicado en la carpeta creada anteriormente y donde guardó el archivo -por ejemplo
@@ -167,6 +208,9 @@ Ejecute las instrucciones guardadas en el archivo anterior ( [programa.py](pract
 
 #### Respuesta
 > Se antepone el comando python para poder ejecutar el programa.py llamando al interprete
+
+
+<br/>
 
 
 ## Desde Geany
@@ -201,6 +245,9 @@ Entre todos, den las razones y justificaciones para defender esto:
 - c) Python tiene tipado dinámico
 - d) Python es software libre
 - e) Python es un lenguaje de alto nivel
+
+
+<br/>
 
 
 #### Respuesta
