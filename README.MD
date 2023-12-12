@@ -104,6 +104,8 @@ Aquí podés encontrar los Power Point vistos en clase
 > Negative potential consequences of an action.
 -->
 
+<br>
+
 > [!IMPORTANT]
 > Practica los ejercicios por tu cuenta!!!
 
