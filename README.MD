@@ -23,6 +23,7 @@ Los PDFs utilizados corresponden al año 2020, lo cual implica que están desact
 El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, colaborar con distintos alumnos para generar resoluciones más eficientes en un espacio colaborativo.
 
 
+
 | Enlace                                          | Descripción              |
 |-------------------------------------------------|--------------------------|
 | [🔗 Practicas 1](/01_practicas/README.MD)                | Conceptos basicos        |
@@ -71,3 +72,23 @@ Aquí podés encontrar los Power Point vistos en clase
 ### ⭐ Contacto
 
 📧 MaximilianoRodrigoSoria@gmail.com
+
+
+
+<!-- Example to tags
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+-->
