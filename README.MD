@@ -11,7 +11,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
 <img width="100%" height="100%" src="docs/img/fundamentos.png" alt="Fundamentos"></a></p>
-
+<br/>
+<br/>
 ### ⭐ Lista de Prácticas
 
 Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas, tanto los ejercicios teóricos como los ejercicios prácticos.
@@ -36,7 +37,8 @@ El objetivo de este repositorio es contener los ejercicios proporcionados en la 
 > [!NOTE]  
 > Cada ejercicio tiene su archivo `.py` con el codigo ejecutable.
 
-
+<br/>
+<br/>
 ### ⭐ Lista de Power points
 
 Aquí podés encontrar los Power Point vistos en clase
@@ -51,7 +53,8 @@ Aquí podés encontrar los Power Point vistos en clase
 | [🔗 PPT 5](docs/ppts/05-funciones.pdf) | Funciones                  |
 | [🔗 PPT 6](docs/ppts/06-estructuras_de_control_condicionales.pdf) | Condicionales              |
 
-
+<br/>
+<br/>
 ### ⭐ Parciales
 
 | Enlace                                                                     | 
@@ -69,11 +72,11 @@ Aquí podés encontrar los Power Point vistos en clase
 
 ---
 
+<br/>
+<br/>
 ### ⭐ Contacto
 
 📧 MaximilianoRodrigoSoria@gmail.com
-
-
 
 <!-- Example to tags
 
