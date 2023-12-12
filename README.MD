@@ -85,6 +85,8 @@ Aquí podés encontrar los Power Point vistos en clase
 > 📧 **Email:** MaximilianoRodrigoSoria@gmail.com
 >
 > 🏠 **De:** Florencio Varela, Alphino
+> 
+> 💼: **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
 
 <!-- Example to tags
 
