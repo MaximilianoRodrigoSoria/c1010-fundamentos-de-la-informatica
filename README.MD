@@ -17,7 +17,7 @@
 Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Cada ejercicio tiene su archivo `.py` con el codigo ejecutable.
 
 > 
 | Enlace                                          | Descripción              |
