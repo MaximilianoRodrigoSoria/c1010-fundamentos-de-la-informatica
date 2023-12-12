@@ -14,12 +14,15 @@
 
 ### ⭐ Lista de Prácticas
 
-Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
+Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas, tanto los ejercicios teóricos como los ejercicios prácticos.
 
-> [!NOTE]  
-> Cada ejercicio tiene su archivo `.py` con el codigo ejecutable.
+Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados. Se comprende que estos serán actualizados con el tiempo.
 
-> 
+### Objetivo
+
+El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, colaborar con distintos alumnos para generar resoluciones más eficientes en un espacio colaborativo.
+
+
 | Enlace                                          | Descripción              |
 |-------------------------------------------------|--------------------------|
 | [🔗 Practicas 1](/01_practicas/README.MD)                | Conceptos basicos        |
@@ -28,6 +31,9 @@ Aquí podés encontrar los enunciados y resoluciones de las distintas practicas
 | [🔗 Practicas 4](/04_practicas/README.MD)              | Sentencias condicionales |
 | [🔗 Practicas 5](/05_practicas/README.MD)| Estructuras de control y condiciones                   |
 | [🔗 Practicas 6](/06_practicas/README.MD) | Estructuras de control y condicionales - ***REPASO***        |
+
+> [!NOTE]  
+> Cada ejercicio tiene su archivo `.py` con el codigo ejecutable.
 
 
 ### ⭐ Lista de Power points
