@@ -15,3 +15,7 @@ Lista de parciales y finales
 
 <span style="color:rgb(255,0,0)">Este texto está en rojo</span>
 
+<span style="color:rgb(255,0,0)">Este texto está en rojo</span>
+<span style="color:rgb(0,0,255)">Este texto está en azul</span>
+<span style="color:red">Este texto está en rojo</span>
+<span style="color:blue">Este texto está en azul</span>
