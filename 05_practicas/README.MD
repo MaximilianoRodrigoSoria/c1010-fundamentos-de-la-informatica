@@ -78,101 +78,165 @@ c) ¿Se puede escribir una estructura de control dentro de otra?
 >
 > La anidación permite una mayor complejidad en la lógica del programa, pero se debe utilizar con precaución para mantener la legibilidad del código.
 
+<br>
+<br>
 
 ## Parte II: Ahora practicamos
 
-### Ejercicio 1: 
+<br>
+<br>
+
+
+#### Ejercicio 1: 
 Escribir un programa que muestre la tabla de multiplicar de un número
 introducido por teclado por el usuario.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio01.py](practicas/01_practica.py)
 
-### Ejercicio 2: 
+<br>
+<br>
+
+
+#### Ejercicio 2: 
 Escribir un programa que calcule la sumatoria desde 0 hasta m, donde m es un número introducido por el usuario desde el teclado.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio02.py](practicas/02_practica.py)
 
 
-### Ejercicio 3: 
+<br>
+<br>
+
+
+#### Ejercicio 3: 
 Escribir un programa que muestre la tabla de los códigos ASCII. Los códigos ASCII van de 0 a 255
 
->### Respuesta
+>#### Respuesta
 > [ejercicio03.py](practicas/03_practica.py)
 
 
-### Ejercicio 4: 
+<br>
+<br>
+
+
+#### Ejercicio 4: 
 Escribir un programa que lea letras del teclado indefinidamente hasta que el usuario ingrese `fin` e imprima el código ASCII de las mismas.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio04.py](practicas/04_practica.py)
 
 
-###  Ejercicio 5: 
+<br>
+<br>
+
+
+####  Ejercicio 5: 
 Escribir un programa que calcule el promedio de N números ingresados por el usuario. (AYUDA: al comenzar el programa debe preguntar la cantidad de números a ingresar, luego iterar y leer tantos números del teclado como se indicó al inicio.)
 
->### Respuesta
+>#### Respuesta
 > [ejercicio05.py](practicas/05_practica.py)
 
 
-###  Ejercicio 6: 
+<br>
+<br>
+
+
+####  Ejercicio 6: 
 Escriba un programa que lea nombres de personas hasta que se ingrese el  nombre `zzz`. Debe imprimir la cantidad de nombres que comienzan con `A`.
 
 >### Respuesta
 > [ejercicio06.py](practicas/06_practica.py)
 
-###  Ejercicio 7: 
+
+<br>
+<br>
+
+
+####  Ejercicio 7: 
 Escriba un programa que lea números de documentos de identidad de personas hasta que se ingrese el número `999`. Debe imprimir la cantidad de números de documentos menores que 20.000.000.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio07.py](practicas/07_practica.py)
 
-###  Ejercicio 8: 
+
+<br>
+<br>
+
+
+####  Ejercicio 8: 
 Escriba un programa que reciba del usuario su nombre, apellido y patente hasta que ingrese AAA, e imprima si está exento de impuesto o no. Tener en cuenta que los autos cuyas patentes empiezan con R, S y T no deben pagar impuesto.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio08.py](practicas/08_practica.py)
 
-###  Ejercicio 9: 
+<br>
+<br>
+
+
+####  Ejercicio 9: 
 Escriba un programa que solicite códigos postales de localidades e imprima si esa localidad es La Plata, Florencio Varela u otra. Recordar que el código postal de La
 Plata es 1900 y el de Florencia Varela es: 1887. El programa termina cuando se ingresa el código postal 0.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio09.py](practicas/09_practica.py)
 
 
-###  Ejercicio 10: 
+<br>
+<br>
+
+
+####  Ejercicio 10: 
 Definir una función que imprima los primeros cien números enteros. ¿Se le ocurre otra forma de hacerlo?
 
->### Respuesta
+>#### Respuesta
 > [ejercicio10.py](practicas/10_practica.py)
 
 
-###  Ejercicio 11: 
+<br>
+<br>
+
+
+####  Ejercicio 11: 
 Implementar un función que muestre todos los múltiplos de n entre n y m - n, ambos inclusive, donde n y m son parámetros de la función.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio11.py](practicas/11_practica.py)
+
+
+<br>
+<br>
 
 
 ## Parte III: Ahora practicamos con Colecciones
 
-###  Ejercicio 12: 
+<br>
+<br>
+
+
+####  Ejercicio 12: 
 Dada la siguiente lista [1, 14, 56, 43, 23, 46, 58, 123, 67 ] escribir un programa que muestre el número más alto.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio12.py](practicas/12_practica.py)
 
+<br>
+<br>
 
-###  Ejercicio 13: 
+
+
+####  Ejercicio 13: 
 Escriba un programa que solicite nombres de localidades y códigos postales al usuario hasta que se ingresa el código postal 0. Debe generar una lista con todos los valores ingresados e imprimirla.
 
->### Respuesta
+>#### Respuesta
 > [ejercicio13.py](practicas/13_practica.py)
 
 
-###  Ejercicio 14: 
+<br>
+<br>
+
+
+####  Ejercicio 14: 
 Realice un programa para manejar equipos de fútbol.
 
 a) Definir una función que arme una lista con la información de los equipos. De cada equipo se quiere guardar el nombre del equipo, puntaje en la tabla de posiciones y la cantidad de goles a favor. El ingreso finaliza cuando se lee el nombre del equipo igual azzz.
@@ -183,13 +247,21 @@ que están en la primera y última posición de la lista.
 c) Imprimir el nombre del equipo Campeón de la lista del ejercicio anterior.
 
 
->### Respuesta
+>#### Respuesta
 > [ejercicio14.py](practicas/14_practica.py)
+
+
+<br>
+<br>
 
 
 ## Parte IV: Ahora practicamos con menúes
 
-### Ejercicio 15: 
+<br>
+<br>
+
+
+#### Ejercicio 15: 
 Escriba un programa que le solicite al usuario que elija una opción del siguiente menú y, de acuerdo a la opción elegida, le solicite los datos restantes para
 imprimir el área de la figura elegida:
 
@@ -201,35 +273,47 @@ Menú de opciones
 
 3.- Rectángulo
 
->### Respuesta
+>#### Respuesta
 > [ejercicio15.py](practicas/15_practica.py)
 
-###   Ejercicio 16: 
+<br>
+<br>
+
+
+#### Ejercicio 16: 
 Escriba un programa que le solicite al usuario que ingrese un monto de dinero y una opción del siguiente menú. De acuerdo a la opción elegida, imprima cuanto
 equivale el monto en dólares, en euros y en reales. Utilizar las funciones ya definidas en el ejercicio 14 de la práctica 3 (convertir_a_dolar, convertir_a_euro y convertir_a_real).
 
 >### Respuesta
 > [ejercicio16.py](practicas/16_practica.py)
 
-###  Ejercicio 17:
+<br>
+<br>
 
-a) Definir una función que permita el ingreso de números por teclado hasta ingresar el O, y retorne esa lista.
 
-b) Definir una función que reciba como parámetro una lista de números y retorne como resultado el promedio.
+####  Ejercicio 17:
 
-c) Definir una función que reciba como parámetro una lista de números y retorne como resultado la suma de los números.
+ a) Definir una función que permita el ingreso de números por teclado hasta ingresar el O, y retorne esa lista.
 
-d) Definir una función que reciba como parámetro una lista de números y retome el número más grande de la lista (máximo).
+ b) Definir una función que reciba como parámetro una lista de números y retorne como resultado el promedio.
 
-e) Definir una función que reciba como parámetro una lista de números y retorne el número más pequeño de la lista (mínimo).
+ c) Definir una función que reciba como parámetro una lista de números y retorne como resultado la suma de los números.
+
+ d) Definir una función que reciba como parámetro una lista de números y retome el número más grande de la lista (máximo).
+
+ e) Definir una función que reciba como parámetro una lista de números y retorne el número más pequeño de la lista (mínimo).
 
 Utilizar las funciones definidas anteriormente para construir un programa que permita elegir una opción del siguiente menú:
+
+<br>
 
 1. Ver el promedio de los números
 2. Ver la suma de los números
 3. Ver la cantidad de números
 4. Ver el número máximo
 5. Ver el número mínimo
+
+<br>
 
 Recordar que el promedio de números se calcula como la suma sobre la cantidad. Por
 ejemplo, en el caso de 5 números sería:
@@ -238,8 +322,16 @@ ejemplo, en el caso de 5 números sería:
 <a href="#" target="_blank" rel="noopener noreferrer">
 <img width="50%" height="50%" src="docs/img/formula_1.png" alt="formula 01"></a></p>
 
+<br>
+<br>
+
+
 >### Respuesta
 > [ejercicio17.py](practicas/17_practica.py)
+
+<br>
+<br>
+
 
 ## Ejercicios a entregar
 
