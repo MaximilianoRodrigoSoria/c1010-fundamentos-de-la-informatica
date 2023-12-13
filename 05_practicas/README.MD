@@ -21,6 +21,64 @@ control?
 
 c) ¿Se puede escribir una estructura de control dentro de otra?
 
+
+> Respuestas
+>
+> **a) Estructuras de control en Python:**
+> 
+> En Python, las estructuras de control son fundamentales para controlar el flujo de ejecución del programa. Las principales estructuras de control son:
+>
+> 1. **if-else:**
+>   ```python
+>   if condicion:
+>       # bloque de código si la condición es verdadera
+>   else:
+>       # bloque de código si la condición es falsa
+>   ```
+>
+> 2. **while:**
+>   ```python
+>   while condicion:
+>       # bloque de código ejecutado mientras la condición sea verdadera
+>   ```
+>
+> 3. **for:**
+>   ```python
+>   for variable in secuencia:
+>       # bloque de código que se repite para cada elemento de la secuencia
+>   ```
+>
+> **Diferencias:**
+>
+> - **if-else:** Permite ejecutar un bloque de código si la condición es verdadera y otro bloque si es falsa.
+>
+> - **while:** Ejecuta un bloque de código mientras la condición sea verdadera.
+>
+> - **for:** Itera sobre una secuencia (como listas, tuplas, etc.) y ejecuta un bloque de código para cada elemento.
+>
+> **b) Sentencias dentro del cuerpo de una estructura de control:**
+>
+> Dentro del cuerpo de una estructura de control, como un if, while o for, puedes escribir diversas sentencias, entre ellas:
+>
+> - Declaración de variables.
+> - Operaciones aritméticas y lógicas.
+> - Llamadas a funciones.
+> - Otras estructuras de control (anidación).
+>
+> **c) Anidación de estructuras de control:**
+>
+> Sí, es posible anidar estructuras de control en Python. Esto implica colocar una estructura de control dentro del cuerpo de otra. Por ejemplo:
+>
+> ```python
+> if condicion_externa:
+>    # bloque de código exterior
+>    if condicion_interna:
+>        # bloque de código interior
+> ```
+>
+> La anidación permite una mayor complejidad en la lógica del programa, pero se debe utilizar con precaución para mantener la legibilidad del código.
+
+
 ## Parte II: Ahora practicamos
 
 ### Ejercicio 1: 
