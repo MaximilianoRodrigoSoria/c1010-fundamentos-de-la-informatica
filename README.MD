@@ -2,6 +2,18 @@
 <a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
 <img width="100%" height="100%" src="docs/img/banner.gif" alt="Linkedin"></a></p>
 
+>_"Esta materia fue mi primer fracaso grande en el mundo Universitario y en el mundo de la Programación._ 
+>
+>_Por eso la recuerdo con tanto cariño._ 
+>
+>_Luego de eso me levante del piso, me puse de pie y con coraje seguí fracasando._ 
+>
+>_Una y otra vez…_
+>
+>_El caer, pararse y seguir es parte de la vida._
+>
+>_El fracaso es una herramienta,  a la cual llamo experiencia."_
+> 
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Pythont-3-brightgreen" alt="Spring Boot"></a>
