@@ -143,7 +143,7 @@ Escribir un programa que calcule el promedio de N números ingresados por el usu
 
 
 ####  Ejercicio 6: 
-Escriba un programa que lea nombres de personas hasta que se ingrese el  nombre `zzz`. Debe imprimir la cantidad de nombres que comienzan con `A`.
+Escriba un programa que lea nombres de personas hasta que se ingrese el nombre `zzz`. Debe imprimir la cantidad de nombres que comienzan con `A`.
 
 >### Respuesta
 > [ejercicio06.py](practicas/06_practica.py)
@@ -176,7 +176,7 @@ Escriba un programa que reciba del usuario su nombre, apellido y patente hasta q
 
 ####  Ejercicio 9: 
 Escriba un programa que solicite códigos postales de localidades e imprima si esa localidad es La Plata, Florencio Varela u otra. Recordar que el código postal de La
-Plata es 1900 y el de Florencia Varela es: 1887. El programa termina cuando se ingresa el código postal 0.
+Plata es 1900 y el de Florencia Varela es: 1888. El programa termina cuando se ingresa el código postal 0.
 
 >#### Respuesta
 > [ejercicio09.py](practicas/09_practica.py)
@@ -349,4 +349,5 @@ Dada la siguiente lista [1, 14, 56, 43, 23, 46, 58, 123, 67 ] escribir un progra
 
 ### Ejercicio 13: 
 Escriba un programa que solicite nombres de localidades y códigos postales al usuario hasta que se ingresa el código postal 0. Debe generar una lista con todos los valores ingresados e imprimirla.
+
 
