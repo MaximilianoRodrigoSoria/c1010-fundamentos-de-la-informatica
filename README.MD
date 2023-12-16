@@ -29,13 +29,13 @@
 
 ### ⭐ Lista de Prácticas
 
-Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas, tanto los ejercicios teóricos como los ejercicios prácticos.
+Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas de la materia Fundamentos de la Informática de la [Universidad Nacional Arturo Jauretche](https://www.unaj.edu.ar), tanto los ejercicios teóricos como los ejercicios prácticos.
 
 Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados. Se comprende que estos serán actualizados con el tiempo.
 
 #### Objetivo
 
-El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
+El objetivo de este repositorio es contener los ejercicios proporcionados en la Práctica de Fundamentos de la programación, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
 la materia, siendo este un material de apoyo y punto de partida para revisar la resolución de los ejercicios.
 
 
@@ -121,6 +121,5 @@ Aquí podés encontrar los Power Point vistos en clase
 <br>
 
 > [!IMPORTANT]
-> Practica los ejercicios por tu cuenta!!!
-
+> El autor recomienda que practiques por tu cuenta los ejercicios, debido a que es una materia que requiere práctica entenderla.
 
