@@ -31,11 +31,14 @@
 
 Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas de la materia Fundamentos de la Informática de la [Universidad Nacional Arturo Jauretche](https://www.unaj.edu.ar), tanto los ejercicios teóricos como los ejercicios prácticos.
 
-Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados. Se comprende que estos serán actualizados con el tiempo.
+Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados y son solo de uso referencial. 
+
+> **Se recomienda tomar este apunte como referencia y realizar la práctica de la materia con el material actualizado.**
+
 
 #### Objetivo
 
-El objetivo de este repositorio es contener los ejercicios proporcionados en la Práctica de Fundamentos de la programación, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
+Este repositorio tiene como objetivo contener los ejercicios proporcionados en la materia de Fundamentos de la inforomática, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
 la materia, siendo este un material de apoyo y punto de partida para revisar la resolución de los ejercicios.
 
 
