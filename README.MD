@@ -10,9 +10,9 @@
 >
 >_Una y otra vez…_
 >
->_El caer, pararse y seguir es parte de la vida._
+>_Caer, pararse y seguir es parte de la vida._
 >
->_El fracaso es una herramienta,  a la cual llamo experiencia."_
+>_*El fracaso es una herramienta,  a la cual llamo experiencia."*_
 > 
 
 <p align="center">
