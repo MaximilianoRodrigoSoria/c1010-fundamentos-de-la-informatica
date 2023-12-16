@@ -2,6 +2,18 @@
 <a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
 <img width="100%" height="100%" src="docs/img/banner.gif" alt="Linkedin"></a></p>
 
+>_"Esta materia fue mi primer fracaso grande en el mundo Universitario y en el mundo de la Programación._ 
+>
+>_Por eso la recuerdo con tanto cariño._ 
+>
+>_Luego de eso me levante del piso, me puse de pie y con coraje seguí fracasando._ 
+>
+>_Una y otra vez…_
+>
+>_Caer, pararse y seguir es parte de la vida._
+>
+>_*El fracaso es una herramienta,  a la cual llamo experiencia."*_
+> 
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Pythont-3-brightgreen" alt="Spring Boot"></a>
@@ -17,13 +29,16 @@
 
 ### ⭐ Lista de Prácticas
 
-Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas, tanto los ejercicios teóricos como los ejercicios prácticos.
+Aquí puedes encontrar los enunciados y las resoluciones de las distintas prácticas de la materia Fundamentos de la Informática de la [Universidad Nacional Arturo Jauretche](https://www.unaj.edu.ar), tanto los ejercicios teóricos como los ejercicios prácticos.
 
-Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados. Se comprende que estos serán actualizados con el tiempo.
+Los PDFs utilizados corresponden al año 2020, lo cual implica que están desactualizados y son solo de uso referencial. 
+
+> **Se recomienda tomar este apunte como referencia y realizar la práctica de la materia con el material actualizado.**
+
 
 #### Objetivo
 
-El objetivo de este repositorio es contener los ejercicios proporcionados en la práctica de Fundamentos 1 y, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
+Este repositorio tiene como objetivo contener los ejercicios proporcionados en la materia de Fundamentos de la inforomática, al mismo tiempo, se pretende ayudar a aquellos alumnos que les cueste más
 la materia, siendo este un material de apoyo y punto de partida para revisar la resolución de los ejercicios.
 
 
@@ -84,7 +99,7 @@ Aquí podés encontrar los Power Point vistos en clase
 > 
 > 📧 **Email:** MaximilianoRodrigoSoria@gmail.com
 >
-> 🏠 **De:** Florencio Varela, Alphino
+> 🏠 **De:** Florencio Varela, Alpino
 > 
 > 💼 **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
 
@@ -109,6 +124,5 @@ Aquí podés encontrar los Power Point vistos en clase
 <br>
 
 > [!IMPORTANT]
-> Practica los ejercicios por tu cuenta!!!
-
+> El autor recomienda que practiques por tu cuenta los ejercicios, debido a que es una materia que requiere práctica entenderla.
 
