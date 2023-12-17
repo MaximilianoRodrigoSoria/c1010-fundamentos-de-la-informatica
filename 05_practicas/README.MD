@@ -192,6 +192,7 @@ Definir una función que imprima los primeros cien números enteros. ¿Se le ocu
 >#### Respuesta
 > [ejercicio10.py](practicas/10_practica.py)
 
+> Usando una recursion podria ser un forma de hacerlo
 
 <br>
 <br>
@@ -210,12 +211,12 @@ Implementar un función que muestre todos los múltiplos de n entre n y m - n, a
 
 ## Parte III: Ahora practicamos con Colecciones
 
-<br>
+<br>[1, 14, 56, 43, 23, 46, 58, 123, 67 ]
 <br>
 
 
 ####  Ejercicio 12: 
-Dada la siguiente lista [1, 14, 56, 43, 23, 46, 58, 123, 67 ] escribir un programa que muestre el número más alto.
+Dada la siguiente lista  escribir un programa que muestre el número más alto.
 
 >#### Respuesta
 > [ejercicio12.py](practicas/12_practica.py)
@@ -239,7 +240,7 @@ Escriba un programa que solicite nombres de localidades y códigos postales al u
 ####  Ejercicio 14: 
 Realice un programa para manejar equipos de fútbol.
 
-a) Definir una función que arme una lista con la información de los equipos. De cada equipo se quiere guardar el nombre del equipo, puntaje en la tabla de posiciones y la cantidad de goles a favor. El ingreso finaliza cuando se lee el nombre del equipo igual azzz.
+a) Definir una función que arme una lista con la información de los equipos. De cada equipo se quiere guardar el nombre del equipo, puntaje en la tabla de posiciones y la cantidad de goles a favor. El ingreso finaliza cuando se lee el nombre del equipo igual ZZZ.
 
 b) Usando la lista anterior, imprimir la cantidad de goles a favor que tienen los equipos
 que están en la primera y última posición de la lista.
