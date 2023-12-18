@@ -74,6 +74,8 @@ Aquí podés encontrar los Power Point vistos en clase
 <br/>
 <br/>
 
+<!-- Generar modelos de parcial y borrar recopilaciones
+
 ### ⭐ Parciales
 
 | Enlace                                                                     | 
@@ -87,7 +89,7 @@ Aquí podés encontrar los Power Point vistos en clase
 | [🔗 Final](07_parciales/docs/final_01.png)                                 | 
 | [🔗 Final](07_parciales/docs/final_02.png)                                 | 
 
-
+--->
 
 ---
 
