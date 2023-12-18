@@ -19,10 +19,10 @@ Resolver estos ejercicios permitirá al alumno ejercitar todos los conceptos apr
 preparación más avanzado.
 
 Al momento de resolver esta práctica es indispensable que el alumno aplique los siguientes conceptos:
--  Modularización y definición adecuada de argumentos
+- Modularización y definición adecuada de argumentos
 - Estructuras de control
--  Pasaje de parámetros
--  Condicionales simples y compuestos
+- Pasaje de parámetros
+- Condicionales simples y compuestos
 
 ### Ejercicio 1:
 * a. Defina una función que reciba como argumento una cadena de texto y retorne un
