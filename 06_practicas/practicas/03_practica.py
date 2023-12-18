@@ -20,19 +20,26 @@ def imprimir_alumno(legajos):
 
 
 def legajo_menor(legajos):
-    menor = legajos[0]
-    for legajo in legajos:
-        if(legajo[0]< menor[0]):
-            menor = legajo
-    return menor
+    if(legajos):
+        menor = legajos[0]
+        for legajo in legajos:
+            if(legajo[0]< menor[0]):
+                menor = legajo
+        return menor
+    else:
+        return []
 
 
 def nombre_mas_largo(legajos):
-    mayor = legajos[0]
-    for legajo in legajos:
-        if(len(legajo[1]) > len(mayor[1])):
-            mayor = legajo
-    return mayor
+    if (legajos):
+        mayor = legajos[0]
+        for legajo in legajos:
+            if(len(legajo[1]) > len(mayor[1])):
+                mayor = legajo
+        return mayor
+    else:
+        return []
+
 
 def controlar_clave(legajos):
     for legajo in legajos:
@@ -41,17 +48,18 @@ def controlar_clave(legajos):
         else:
             print(f"El legajo {legajo[0]} no tiene una contraseña segura")
 
-def menu(lejajos):
+def menu():
     print(f"\n***Ingresar una opcion o (0 para salir)***\n")
     print(f"[1] Imprimir los datos de todos los alumnos")
     print(f"[2] Imprimir los datos del alumno que tiene el legajo más chico")
     print(f"[3] Imprimir los datos del alumno que tiene el nombre más largo")
     print(f"[4] Imprimir si las contraseñas de cada alumno cumplen con un tamaño mayor a 6 caracteres y terminan con un número")
-
-    opcion = int(input("Igresar una opcion: "))
+    print(f"[5] Ingresar legajos")
+    legajos = []
+    opcion = int(input("\nIngresar una opcion: "))
     while(opcion!=0):
         if(opcion==1):
-            imprimir_alumno(lejajos)
+            imprimir_alumno(legajos)
         else:
             if(opcion==2):
                 print(f"El legajo mas chico es {legajo_menor(legajos)}")
@@ -62,8 +70,10 @@ def menu(lejajos):
                     if(opcion==4):
                         controlar_clave(legajos)
                     else:
-                        print("Opcion no valida")
-        opcion = int(input("Igresar una opcion: "))
+                        if(opcion==5):
+                            legajos = ingreso_legajos()
+                        else:
+                            print("Opcion no valida")
+        opcion = int(input("\nIngresar una opcion: "))
 
-legajos = ingreso_legajos()
-menu(legajos)
+menu()

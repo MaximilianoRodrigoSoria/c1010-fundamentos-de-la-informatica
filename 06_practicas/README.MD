@@ -85,8 +85,6 @@ e. Realice una función llamada controlar_clave que recibe como parámetro un al
 contraseña es mayor a 6 caracteres y termina con un número, deberá imprimir un mensaje especificando el error cometido en caso de no cumplir las condiciones o
 bien imprimir los datos del alumno si la clave cumple con todas las condiciones.
 
-f. Realice una función llamada verificar_claves que recibe como parámetro una lista  de alumnos, la función deberá controlar por cada alumno si la contraseña que usa
-cumple con: ser mayor a 6 caracteres y terminar con un número.
 
 Construir un menú, el menú deberá permitir ingresar 5 opciones, La opción 0 permite salir del menú, el resto de las opciones permiten:
 
