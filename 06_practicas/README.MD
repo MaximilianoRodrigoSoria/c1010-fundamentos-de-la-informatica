@@ -78,7 +78,7 @@ b. Realice una función llamada imprimir_alumno que recibe como parámetro una l
 c. Realice una función llamada legajo_menor que recibe como parámetro una lista de alumnos, de cada alumno se conoce la información (legajo, nombre, apellido,
 contraseña), la función debe buscar cuál es el alumno con el menor legajo dentro de la lista y retornarlo.
 
-d. Realice una función llamada nombre_mas_largo que recibe como parámetro una  lista de alumnos. La función debe buscar cuál es el alumno con el nombre más
+d. Realice una función llamada nombre_mas_largo que recibe como parámetro una lista de alumnos. La función debe buscar cuál es el alumno con el nombre más
 largo dentro de la lista y retornarlo.
 
 e. Realice una función llamada controlar_clave que recibe como parámetro un alumno,(legajo, nombre, apellido, contraseña). La función debe controlar si la
