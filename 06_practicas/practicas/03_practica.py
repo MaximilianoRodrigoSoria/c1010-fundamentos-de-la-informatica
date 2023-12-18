@@ -37,7 +37,7 @@ def nombre_mas_largo(legajos):
 def controlar_clave(legajos):
     for legajo in legajos:
         if(len(legajo[3])> 6 and legajo[3][-1] in ["1","2","3","4","5","6","7","8","9","0"]):
-            print(legajo)
+            print(f"El legajo {legajo} posee una contraseña correcta")
         else:
             print(f"El legajo {legajo[0]} no tiene una contraseña segura")
 
