@@ -83,7 +83,6 @@ def imprimir_opciones():
     print(f"[4] Imprimir los datos de los artículos cuyo stock es 0")
     print(f"[5] Imprimir la información completa de los artículos que no requieren frío")
     print(f"[6] Cargar productos")
-    print(f"[7] Cargar stock")
 def menu():
     productos = []
     stock = []
@@ -103,7 +102,7 @@ def menu():
                         stock_cero(stock)
                     else:
                         if(opcion==5):
-                            agregar_stock(devolver_R_N(productos, "N"))
+                            stock = agregar_stock(devolver_R_N(productos, "N"))
                         else:
                             if(opcion==6):
                                 productos = ingresar_productos()
