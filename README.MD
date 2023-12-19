@@ -104,6 +104,8 @@ Aquí podés encontrar los Power Point vistos en clase
 > 🏠 **De:** Florencio Varela, Alpino
 > 
 > 💼 **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
+>
+> 💬 **Chatear:**  [Inicia un chat](https://wa.me/1127043256) 
 
 <!-- Example to tags
 
